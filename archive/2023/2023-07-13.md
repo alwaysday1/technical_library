@@ -1,0 +1,78 @@
+# 每日技术资讯（2023-07-13）
+
+- 微信公众号 - 阿里开发者
+  - [谈谈LLM在推荐域的渗透，探索推荐新范式](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247533850&idx=1&sn=0aaa1f854345d6aa4d3e5352ec73f648)
+- 微信公众号 - 阿里技术
+  - [谈一谈LLM在推荐域的一些理解](https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247492101&idx=1&sn=5d6760ef90f1f70fcc394d1f618e5156)
+- 微信公众号 - 阿里巴巴技术质量
+  - [昨日RSS未更新](无)
+- 微信公众号 - 阿里巴巴中间件
+  - [昨日RSS未更新](无)
+- 微信公众号 - 大淘宝技术
+  - [昨日RSS未更新](无)
+- 微信公众号 - 腾讯云开发者
+  - [消息队列20年：腾讯专家沉淀的MQ设计精要](https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&mid=2247648678&idx=1&sn=62e98b196d6981e2d4aed1fe882e3a42)
+- 微信公众号 - 腾讯技术工程
+  - [昨日RSS未更新](无)
+- 微信公众号 - 腾讯大讲堂
+  - [昨日RSS未更新](无)
+- 微信公众号 - 字节前端 ByteFE
+  - [自己动手实现一个 WebAssembly 解释器](https://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247503863&idx=1&sn=da2a1a160ebc6a9bd6ef5f7973ddfb82)
+  - [WebAssembly 调试原理和方法简介](https://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247503863&idx=2&sn=2980f6646926ca9357c945e86531fc70)
+  - [WebAssembly 在 ByteFaaS 中的应用](https://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247503863&idx=3&sn=eb4dddea7733780f545ec9fca3e2db1e)
+  - [WebAssembly在数字图像处理中的应用](https://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247503863&idx=4&sn=e37c4a2ba7a83d8345e1decacd9e37ae)
+- 微信公众号 - 字节跳动技术团队
+  - [通过大语言模型（LLM）识别与修复风险代码](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247503364&idx=1&sn=158aed173efa5d4116c22ec3cacd7be0)
+  - [定制化白盒检测 | 越权漏洞治理分享](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247503364&idx=2&sn=c11e68db755e6c1b320f9caea8093076)
+- 微信公众号 - 百度智能云技术站
+  - [昨日RSS未更新](无)
+- 微信公众号 - 百度Geek说
+  - [百度iOS端长连接组件建设及应用实践](https://mp.weixin.qq.com/s?__biz=Mzg5MjU0NTI5OQ==&mid=2247567397&idx=1&sn=122f8c1c6f8c34fa6cca6a442d5282d2)
+- 微信公众号 - 京东技术
+  - [昨日RSS未更新](无)
+- 微信公众号 - 京东零售技术
+  - [昨日RSS未更新](无)
+- 微信公众号 - 京东云开发者
+  - [ElasticSearch - 批量更新bulk死锁问题排查](https://mp.weixin.qq.com/s?__biz=MzU1OTgxMTg2Nw==&mid=2247506833&idx=1&sn=1655be1437b2526ceb2160e4de5c2201)
+- 微信公众号 - 得物技术
+  - [昨日RSS未更新](无)
+- 微信公众号 - 政采云前端
+  - [昨日RSS未更新](无)
+- 微信公众号 - 高德技术
+  - [昨日RSS未更新](无)
+- 微信公众号 - 滴滴技术
+  - [昨日RSS未更新](无)
+- 微信公众号 - 网易智企技术+
+  - [昨日RSS未更新](无)
+- 微信公众号 - 网易云音乐技术团队
+  - [昨日RSS未更新](无)
+- 微信公众号 - 美团技术团队
+  - [昨日RSS未更新](无)
+- 微信公众号 - 搜狐技术产品
+  - [昨日RSS未更新](无)
+- 微信公众号 - 爱奇艺技术产品团队
+  - [昨日RSS未更新](无)
+- 微信公众号 - vivo互联网技术
+  - [昨日RSS未更新](无)
+- 微信公众号 - Qunar技术沙龙
+  - [昨日RSS未更新](无)
+- 微信公众号 - 之家技术
+  - [昨日RSS未更新](无)
+- 微信公众号 - 微盟技术中心
+  - [昨日RSS未更新](无)
+- 微信公众号 - 360质量效能
+  - [昨日RSS未更新](无)
+- 微信公众号 - 奇舞精选
+  - [别担心！css渐变是可以做到的](https://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247507588&idx=1&sn=06a7c44ccd69b3b9201e059d4934274e)
+- 微信公众号 - 哔哩哔哩技术
+  - [昨日RSS未更新](无)
+- 微信公众号 - TapTap开发者
+  - [昨日RSS未更新](无)
+- 微信公众号 - 携程技术
+  - [昨日RSS未更新](无)
+- 微信公众号 - 58技术
+  - [昨日RSS未更新](无)
+- 微信公众号 - 转转技术
+  - [昨日RSS未更新](无)
+- 微信公众号 - 哈啰技术
+  - [昨日RSS未更新](无)
