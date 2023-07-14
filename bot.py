@@ -117,14 +117,13 @@ def parse_rss(feeds):
         # 如果昨天没有更新，添加一个默认字段
         if not has_updates:
             feishuType_list.pop()
-            content["昨日RSS未更新"] = "无"
         else:
             feishuType_list.append([
                 {
                     "tag": "text",
                     "text": f"\n"
                 }])
-        Local_list.append({rssTitle: content})
+            Local_list.append({rssTitle: content})
     return feishuType_list, Local_list
 
 
