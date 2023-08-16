@@ -7,7 +7,6 @@ import requests
 
 # 初始化配置文件
 feedTitle = '每日技术资讯'
-SeedTime = '11:00'
 today = datetime.now().strftime("%Y-%m-%d")
 
 # 获取当前日期和星期几
@@ -64,8 +63,13 @@ def parse_rss(feeds):
     ]
     counter = 0
     for feedURL in feeds:
-        # 解析 RSS 源
-        feed = feedparser.parse(feedURL)
+        try:
+            # 尝试解析 RSS 源
+            feed = feedparser.parse(feedURL)
+        except Exception as e:
+            print("在解析以下RSS源时出现错误:", feedURL)
+            print("错误详情:", e)
+            continue  # 跳过当前循环，进行下一次循环
         # print(feed)
         # 遍历 RSS 源中的每篇文章
         if 'title' in feed.feed.keys():
@@ -101,7 +105,7 @@ def parse_rss(feeds):
                     feishuType_list.append([
                         {
                             "tag": "text",
-                            "text": f"【{title}】{pub_date_str} "
+                            "text": f"【{title}】{yesterday_str} "
                         },
                         {
                             "tag": "a",
