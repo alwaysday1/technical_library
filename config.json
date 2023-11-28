@@ -159,6 +159,6 @@
   },
   "feishuBot": {
     "enabled": true,
-    "WEBHOOK_URL": ""
+    "WEBHOOK_URL": "https://open.feishu.cn/open-apis/bot/v2/hook/4015cce0-cdc5-444f-ba22-54c696482922"
   }
 }
